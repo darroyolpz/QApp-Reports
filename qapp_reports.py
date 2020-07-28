@@ -1,5 +1,4 @@
 # QApp Reports
-# 29.06.2020
 
 # Import needed modules
 import pandas as pd
